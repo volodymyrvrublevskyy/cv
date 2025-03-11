@@ -13,14 +13,10 @@ sidebar:
   avatar: vvrublevskyy.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
-  email: 
-    primary: vladivb@ukr.net 
-    secondary: vrublevskyy.volodymyr.1988@gmail.com
-  phone: 
-    primary: +48 576 294 821
-    secondary: +38 067 98 47 992
+  email: vladivb@ukr.net
+  phone: +48 576 294 821
   timezone: Europe/Poland # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
-  citizenship: Ukraine
+  citizenship: Ukrainian
   website: https://volodymyrvrublevskyy.github.io/cv/ # Include the full website URL, including "http://" or "https://".
   linkedin: volodymyr-vrublevskyy-7200719a
   xing: 
