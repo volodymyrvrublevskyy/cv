@@ -3,7 +3,7 @@
 #
 
 sidebar:
-  position: Left # position of the sidebar : left or right
+  position: Right # position of the sidebar : left or right
   about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
   education: True # set to False if you want education in main section instead of in sidebar
 
@@ -18,9 +18,9 @@ sidebar:
   timezone: Europe/Poland # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
   citizenship: Ukraine
   website: https://volodymyrvrublevskyy.github.io/cv/ # Include the full website URL, including "http://" or "https://".
-  linkedin: linkedin.com/in/volodymyr-vrublevskyy-7200719a
+  linkedin: volodymyr-vrublevskyy-7200719a
   xing: 
-  github: https://github.com/volodymyrvrublevskyy
+  github: volodymyrvrublevskyy
   telegram: vladivb
   gitlab:
   bitbucket:
@@ -92,8 +92,7 @@ experiences:
   info:
   - role: DevOps Engineer
     time: 2023 - Present
-    company: SoftServe
-    project: Come Back Alive Volunteer project
+    company: SoftServe - Come Back Alive Volunteer project
     details: |
       - Tools
         - WordPress
@@ -109,8 +108,7 @@ experiences:
       - Troubleshooting
   - role: DevOps/Build Engineer
     time: 2017 - Present
-    company: SoftServe
-    project: Zilliant
+    company: SoftServe - Zilliant project
     details: |
       -	Implementing Continuous Integration for engineering team of more than 50 members
         - Jenkins jobs
@@ -139,8 +137,7 @@ experiences:
       - Perforce administration, branching, resolving code conflicts
   - role: DevOps Engineer
     time: January 2017 – March 2017
-    company: SoftServe IT Academy
-    project: OMS
+    company: SoftServe IT Academy - OMS project
     details: |
       Small enterprise project. 
       Building a network for software deployment, 
@@ -149,8 +146,7 @@ experiences:
       continuous delivery and continuous deployment.
   - role: Senior Engineer Access Control and Video surveillance
     time: 2012 - 2017
-    company: Danylo Halytsky International Airport “Lviv”
-    department: Security
+    company: Danylo Halytsky International Airport “Lviv” - Security department
     details: |
       - Teaching and training others  engineers
       - Serve Cisco Physical Access Manager
