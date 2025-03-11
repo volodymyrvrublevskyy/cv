@@ -3,7 +3,7 @@
 #
 
 sidebar:
-  position: Right # position of the sidebar : left or right
+  position: left # position of the sidebar : left or right
   about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
   education: True # set to False if you want education in main section instead of in sidebar
 
@@ -13,8 +13,12 @@ sidebar:
   avatar: vvrublevskyy.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
-  email: vladivb@ukr.net, vrublevskyy.volodymyr.1988@gmail.com
-  phone: +48 576 294 821, +38 067 98 47 992
+  email: |
+    vladivb@ukr.net
+    vrublevskyy.volodymyr.1988@gmail.com
+  phone: |
+    +48 576 294 821
+    +38 067 98 47 992
   timezone: Europe/Poland # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
   citizenship: Ukraine
   website: https://volodymyrvrublevskyy.github.io/cv/ # Include the full website URL, including "http://" or "https://".
@@ -88,7 +92,7 @@ education:
     details: 
 
 experiences:
-  title: DevOps Engineer
+  title: Volunteer DevOps Engineer
   info:
   - role: DevOps Engineer
     time: 2023 - Present
