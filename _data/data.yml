@@ -157,9 +157,17 @@ experiences:
 certifications:
   title: Certifications
   list:
+  - name: AWS Certified Solutions Architect - Professional
+    start: 2026
+    end: 2029
+    organization: AWS
+    credentialid: a892a7f362fb47c3933194886a010ae1
+    credentialurl: https://aws.amazon.com/verification
+    credentialname: AWS Certified Solutions Architect - Professional
+    details:
   - name: AWS Certified Solutions Architect - Associate
     start: 2023
-    end: 2026
+    end: 2029
     organization: AWS
     credentialid: FD6DCZ5KTMB41S3F
     credentialurl: https://aws.amazon.com/verification
