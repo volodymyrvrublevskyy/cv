@@ -33,8 +33,7 @@ sidebar:
   hackerrank: # Please provide your HackerRank username.
   leetcode: # Please provide your LeetCode username.
   pdf: https://volodymyrvrublevskyy.github.io/cv/print # Add a PDF link here if you want to include a PDF custom version in your resume.
-  badge: <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="c59c9780-27e6-46fc-85eb-6cc05e3ee086" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-
+  
   languages:
     title: Languages
     info:
@@ -173,7 +172,7 @@ certifications:
     credentialid: FD6DCZ5KTMB41S3F
     credentialurl: aws.amazon.com/verification
     credentialname: AWS Certified Solutions Architect - Associate
-    details: 
+    details: <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="c59c9780-27e6-46fc-85eb-6cc05e3ee086" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
   - name: AWS Certified SysOps Administrator - Associate
     start: 2023
     end: 2026
@@ -181,7 +180,7 @@ certifications:
     credentialid: CEQPY142WB41Q394
     credentialurl: aws.amazon.com/verification
     credentialname: AWS Certified SysOps Administrator - Associate
-    details: 
+    details: <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="cf4d4e6a-57e9-4292-bfd8-95f036053667" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 #projects:
 #  title: Projects
