@@ -162,7 +162,7 @@ certifications:
     end: 2029
     organization: AWS
     credentialid: a892a7f362fb47c3933194886a010ae1
-    credentialurl: https://aws.amazon.com/verification
+    credentialurl: aws.amazon.com/verification
     credentialname: AWS Certified Solutions Architect - Professional
     details:
   - name: AWS Certified Solutions Architect - Associate
@@ -170,7 +170,7 @@ certifications:
     end: 2029
     organization: AWS
     credentialid: FD6DCZ5KTMB41S3F
-    credentialurl: https://aws.amazon.com/verification
+    credentialurl: aws.amazon.com/verification
     credentialname: AWS Certified Solutions Architect - Associate
     details: 
   - name: AWS Certified SysOps Administrator - Associate
@@ -178,7 +178,7 @@ certifications:
     end: 2026
     organization: AWS
     credentialid: CEQPY142WB41Q394
-    credentialurl: https://aws.amazon.com/verification
+    credentialurl: aws.amazon.com/verification
     credentialname: AWS Certified SysOps Administrator - Associate
     details: 
 
