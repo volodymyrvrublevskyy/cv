@@ -164,7 +164,7 @@ certifications:
     credentialid: a892a7f362fb47c3933194886a010ae1
     credentialurl: aws.amazon.com/verification
     credentialname: AWS Certified Solutions Architect - Professional
-    details: <div data-iframe-width="450" data-iframe-height="270" data-share-badge-id="bce362ca-3c63-4acf-8750-b99852b547d8" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+    details: <div data-iframe-width="500" data-iframe-height="270" data-share-badge-id="bce362ca-3c63-4acf-8750-b99852b547d8" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
   - name: AWS Certified Solutions Architect - Associate
     start: 2023
     end: 2029
@@ -172,7 +172,7 @@ certifications:
     credentialid: FD6DCZ5KTMB41S3F
     credentialurl: aws.amazon.com/verification
     credentialname: AWS Certified Solutions Architect - Associate
-    details: <div data-iframe-width="450" data-iframe-height="270" data-share-badge-id="c59c9780-27e6-46fc-85eb-6cc05e3ee086" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+    details: <div data-iframe-width="500" data-iframe-height="270" data-share-badge-id="c59c9780-27e6-46fc-85eb-6cc05e3ee086" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
   - name: AWS Certified SysOps Administrator - Associate
     start: 2023
     end: 2026
@@ -180,7 +180,7 @@ certifications:
     credentialid: CEQPY142WB41Q394
     credentialurl: aws.amazon.com/verification
     credentialname: AWS Certified SysOps Administrator - Associate
-    details: <div data-iframe-width="450" data-iframe-height="270" data-share-badge-id="cf4d4e6a-57e9-4292-bfd8-95f036053667" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+    details: <div data-iframe-width="500" data-iframe-height="270" data-share-badge-id="cf4d4e6a-57e9-4292-bfd8-95f036053667" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 #projects:
 #  title: Projects
