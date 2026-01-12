@@ -164,7 +164,7 @@ certifications:
     credentialid: a892a7f362fb47c3933194886a010ae1
     credentialurl: aws.amazon.com/verification
     credentialname: AWS Certified Solutions Architect - Professional
-    details:
+    details: <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="bce362ca-3c63-4acf-8750-b99852b547d8" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
   - name: AWS Certified Solutions Architect - Associate
     start: 2023
     end: 2029
